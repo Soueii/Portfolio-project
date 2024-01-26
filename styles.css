@@ -1,0 +1,54 @@
+.custom-shape-divider-top-1705937909 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+  transform: rotate(180deg);
+  z-index: -1;
+}
+
+.custom-shape-divider-top-1705937909 svg {
+  position: relative;
+  display: block;
+  width: calc(100% + 1.3px);
+  height: 123px;
+}
+
+.custom-shape-divider-top-1705937909 .shape-fill {
+  fill: #92c7cf;
+}
+
+.nav-link {
+  color: #fbf9f1;
+}
+
+.baskerville-font {
+  font-family: "Libre Baskerville", serif;
+}
+
+.cardo-font {
+  font-family: Cardo, sans-serif;
+}
+
+.my-card-bg {
+  background-color: #e5e1da;
+}
+
+.my-sec-card-bg {
+  background-color: #fbf9f1;
+}
+
+.pb-color {
+  background-color: #92c7cf;
+}
+
+.btn-color {
+  color: #fbf9f1;
+}
+
+.btn-color:hover {
+  background-color: #aad7d9;
+  color: #fbf9f1;
+}
